@@ -1,4 +1,4 @@
-package bank;
+package acoes;
 
 public class CalculoValorizacaoMensalFactory {
     private final CalculoMensalValorizacaoAcaoStrategy valorizacaoAcaoInternacional = new CalculoMensalAcaoInternacional();

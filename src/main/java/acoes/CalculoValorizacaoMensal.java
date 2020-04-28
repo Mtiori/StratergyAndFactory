@@ -1,4 +1,4 @@
-package bank;
+package acoes;
 
 public class CalculoValorizacaoMensal {
     private final CalculoValorizacaoMensalFactory calcularValorizacao = new CalculoValorizacaoMensalFactory();

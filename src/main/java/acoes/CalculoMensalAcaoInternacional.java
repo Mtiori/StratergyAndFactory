@@ -1,4 +1,4 @@
-package bank;
+package acoes;
 
 public class CalculoMensalAcaoInternacional implements CalculoMensalValorizacaoAcaoStrategy {
     public double calcularValorizacao(double acoesBalance){
